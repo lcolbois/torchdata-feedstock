@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/pytorch/data/archive/refs/tags/v{{ version }}.tar.gz
-  sha256: 5214ef278e4417dd6fe950d2dd67fb24b9652b4086e556006e838198b51f223a
+  sha256: b4ec446a701680faa620fcb828b98ba36a63fa79da62a1e568d4a683889172da
 
 build:
   noarch: python
